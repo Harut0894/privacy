@@ -1,0 +1,68 @@
+{
+ "v": 1,
+ "games": [
+  {
+   "id": "kvadro",
+   "pkg": "com.apakix.kvadro",
+   "name": "Kvadro",
+   "status": "live",
+   "color": "#1BE3FF",
+   "icon": "https://harut0894.github.io/privacy/kvadro.png",
+   "desc": {
+    "en": "Block puzzle: fill rows and columns",
+    "ru": "Блок-головоломка: собирай линии",
+    "es": "Puzle de bloques: completa filas y columnas",
+    "pt": "Quebra-cabeça de blocos: complete linhas",
+    "hy": "Բլոկային գլուխկոտրուկ՝ հավաքիր գծեր",
+    "tr": "Blok bulmaca: satır ve sütunları doldur",
+    "id": "Puzzle balok: penuhi baris dan kolom",
+    "de": "Block-Puzzle: Reihen und Spalten füllen",
+    "fr": "Puzzle de blocs : remplis lignes et colonnes",
+    "it": "Puzzle a blocchi: completa righe e colonne",
+    "pl": "Puzzle z klocków: wypełniaj rzędy i kolumny"
+   }
+  },
+  {
+   "id": "reflekto",
+   "pkg": "com.apakix.reflekto",
+   "name": "Reflekto",
+   "status": "soon",
+   "color": "#FF2E93",
+   "icon": "",
+   "desc": {
+    "en": "Laser puzzle: turn mirrors, light every crystal",
+    "ru": "Лазерная головоломка: поверни зеркала и зажги все кристаллы",
+    "es": "Puzle láser: gira espejos y enciende cada cristal",
+    "pt": "Quebra-cabeça laser: gire espelhos e acenda os cristais",
+    "hy": "Լազերային գլուխկոտրուկ՝ պտտիր հայելիները և վառիր բյուրեղները",
+    "tr": "Lazer bulmaca: aynaları çevir, kristalleri yak",
+    "id": "Puzzle laser: putar cermin, nyalakan kristal",
+    "de": "Laser-Puzzle: Spiegel drehen, Kristalle erleuchten",
+    "fr": "Puzzle laser : tourne les miroirs, allume les cristaux",
+    "it": "Puzzle laser: ruota gli specchi, accendi i cristalli",
+    "pl": "Laserowe puzzle: obracaj lustra, zapal kryształy"
+   }
+  },
+  {
+   "id": "gravito",
+   "pkg": "com.apakix.gravito",
+   "name": "Gravito",
+   "status": "soon",
+   "color": "#A970FF",
+   "icon": "",
+   "desc": {
+    "en": "Tilt puzzle: swipe to group the balls by colour",
+    "ru": "Головоломка с наклоном: смахивай и собирай шарики по цветам",
+    "es": "Puzle de inclinación: desliza y agrupa bolas por color",
+    "pt": "Quebra-cabeça de inclinação: agrupe as bolas por cor",
+    "hy": "Թեքման գլուխկոտրուկ՝ սահեցրու և խմբավորիր գնդիկները ըստ գույնի",
+    "tr": "Eğme bulmaca: kaydır, topları renge göre topla",
+    "id": "Puzzle miring: geser, kelompokkan bola sesuai warna",
+    "de": "Kipp-Puzzle: wischen und Kugeln nach Farbe sammeln",
+    "fr": "Puzzle d'inclinaison : glisse et regroupe les billes",
+    "it": "Puzzle a inclinazione: scorri e raggruppa le palline",
+    "pl": "Puzzle z przechylaniem: przesuwaj i grupuj kulki"
+   }
+  }
+ ]
+}
